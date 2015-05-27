@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="BookStop:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/BookStop_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="BookStop/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BookStop" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

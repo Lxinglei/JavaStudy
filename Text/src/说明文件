@@ -1,0 +1,16 @@
+使用说明:
+
+2.本类的Demo是TestFindWay.java//具体怎么用请参考TestFindWay.java或下面的用法说明
+
+1.最终需要调用的类是FindWay类
+    FindWay使用
+        1>创建FindWay实例(必须步骤):FindWay类的构造函数需要传入两个参数(起点和终点坐标,见①)  或  六个参数(x1,y1,z1,x2,y2,z2,见②)
+            ①FindWay findWay = new FindWay(new Point(x1, y1, z1), new Point(x2, y2, z2));//其中xyz(1,2)为具体数字
+            ②FindWay findWay = new FindWay(x1, y1, z1, x2, y2, z2);//其中xyz(1,2)为具体数字
+            注意:①②两种初始化方式任选一种，若不想在创建的时候传入参数可采用无参构造函数，但需要通过set方法设置起点和终点坐标
+        2>设置地图矩阵文件的路径和行数(必须步骤):
+            findWay.setMapFile(filePath, num);  //filePath为文件路径,num为矩阵行数
+        3>获取查找到的坐标点:
+            List<Point> points = findWay.getPoints();
+            若想获取每个点的三个坐标参数，可通过points.get(index).getX()  points.get(index).getY()   points.get(index).getZ();
+
