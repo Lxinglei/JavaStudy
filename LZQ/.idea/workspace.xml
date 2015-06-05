@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6d14df0-6545-476d-a6d9-7b002341f7ec" name="Default" comment="" />
+    <list default="true" id="e6d14df0-6545-476d-a6d9-7b002341f7ec" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lzqbbs/web/WEB-INF/lib/c3p0-0.9.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaWebStudy/BookStore/web/Axure_01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../README.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/user/AdminUser.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/user/AdminUser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/interceptor/AdminUserInterceptor.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/interceptor/AdminUserInterceptor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/BaseController.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/BaseController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/system/Code.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/system/Code.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/collect/Collect.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/collect/Collect.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/collect/CollectController.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/collect/CollectController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/interceptor/CommonInterceptor.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/interceptor/CommonInterceptor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$CacheKey.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$CacheKey.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$CacheName.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$CacheName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$RequestMethod.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$RequestMethod.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$ResultCode.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$ResultCode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$ResultDesc.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$ResultDesc.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$SystemCode.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$SystemCode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/DateUtil.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/DateUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/EmailSender$EmailSenderHolder.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/EmailSender$EmailSenderHolder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/EmailSender$Email_Autherticator.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/EmailSender$Email_Autherticator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/EmailSender.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/EmailSender.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/EncryptionUtil.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/EncryptionUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/handler/HtmlHandler.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/handler/HtmlHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/index/IndexAdminController.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/index/IndexAdminController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/index/IndexController.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/index/IndexController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/JFinalBBSConfig.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/JFinalBBSConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/link/Link.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/link/Link.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/link/LinkAdminController.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/link/LinkAdminController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/mission/Mission.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/mission/Mission.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/mission/MissionController.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/mission/MissionController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/notification/Notification.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/notification/Notification.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/notification/NotificationController.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/notification/NotificationController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/reply/Reply.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/reply/Reply.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/reply/ReplyAdminController.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/reply/ReplyAdminController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/reply/ReplyController.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/reply/ReplyController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/Result.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/Result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/section/Section.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/section/Section.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/section/SectionAdminController.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/section/SectionAdminController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/StrUtil.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/StrUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/topic/Topic.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/topic/Topic.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/topic/TopicAdminController.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/topic/TopicAdminController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/topic/TopicController.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/topic/TopicController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/user/User.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/user/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/user/UserAdminController.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/user/UserAdminController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/user/UserController.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/user/UserController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/interceptor/UserInterceptor.class" afterPath="$PROJECT_DIR$/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/interceptor/UserInterceptor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lzqbbs/lzqbbs.iml" afterPath="$PROJECT_DIR$/lzqbbs/lzqbbs.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaStudy/.idea/modules.xml" afterPath="$PROJECT_DIR$/../JavaStudy/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaStudy/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../JavaStudy/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaWeb/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../JavaWeb/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaWebStudy/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../JavaWebStudy/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WeiBo/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../WeiBo/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BootStrap/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../BootStrap/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaStudy/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaStudy/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaWeb/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaWeb/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaWebStudy/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaWebStudy/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Text/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Text/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WeiBo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../WeiBo/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" />
+    </list>
     <ignored path="LZQ.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -25,18 +88,18 @@
       <file leaf-file-name="add.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lzqbbs/web/ftl/admin/link/add.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.125">
+            <state vertical-scroll-proportion="0.0">
               <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lzqbbs/resources/config.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.43001688">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -62,17 +125,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="qqconnectconfig.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="qqconnectconfig.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lzqbbs/resources/qqconnectconfig.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.084269665">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -146,12 +212,11 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="89" />
-    <option name="y" value="113" />
-    <option name="width" value="1323" />
-    <option name="height" value="625" />
+    <option name="y" value="23" />
+    <option name="width" value="1366" />
+    <option name="height" value="690" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -174,9 +239,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,18 +248,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LZQ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lzqbbs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,10 +275,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lzqbbs/web/WEB-INF/lib" />
       <recent name="$PROJECT_DIR$/lzqbbs/web/static/bootstrap/js" />
       <recent name="$PROJECT_DIR$/lzqbbs/web/static/img" />
       <recent name="$PROJECT_DIR$/lzqbbs/web/ftl" />
-      <recent name="$PROJECT_DIR$/lzqbbs/web/WEB-INF/lib" />
       <recent name="$PROJECT_DIR$/lzqbbs/src" />
     </key>
   </component>
@@ -482,6 +537,12 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
     <configuration default="false" name="lzqbbs" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.56" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
       <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -586,41 +647,46 @@
       <workItem from="1432128998764" duration="502000" />
       <workItem from="1432219349444" duration="256000" />
       <workItem from="1432456409590" duration="634000" />
+      <workItem from="1432686886041" duration="20000" />
+      <workItem from="1432686950010" duration="208000" />
+      <workItem from="1432689341542" duration="659000" />
+      <workItem from="1432719961939" duration="36000" />
+      <workItem from="1432720004697" duration="1000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19537000" />
+    <option name="totallyTimeSpent" value="20461000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="89" y="113" width="1323" height="625" extended-state="0" />
+    <frame x="0" y="23" width="1366" height="690" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6294964" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24716553" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18594436" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.784219" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -644,13 +710,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lzqbbs/src/cn/jfinalbbs/interceptor/AdminUserInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.8888888">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lzqbbs/src/cn/jfinalbbs/index/IndexAdminController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.111111">
@@ -968,16 +1027,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lzqbbs/web/ftl/admin/link/add.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.125">
-          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lzqbbs/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
           <folding />
         </state>
       </provider>
@@ -998,10 +1049,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/lzqbbs/web/WEB-INF/lib/jfinal-1.9-bin-with-src.jar!/com/jfinal/plugin/c3p0/C3p0Plugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33183858">
+          <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lzqbbs/resources/qqconnectconfig.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.084269665">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lzqbbs/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43001688">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -1065,6 +1131,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1083,6 +1150,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -25,7 +25,7 @@ import java.util.List;
  * Created by metror on 15/5/20.
  */
 public class TicketDao {
-    private String path = "/Users/metror/ticket.xml";
+    private String path = this.getClass()"ticket.xml";
 
     public Boolean add(Ticket tc) {
         SAXReader reader = new SAXReader();
@@ -39,7 +39,7 @@ public class TicketDao {
             ticketEle.addAttribute("status", tc.getStatus() + "");
 
 
-            OutputFormat format = new OutputFormat("\t", true);//缂╄繘浣跨敤\t锛屾槸鍚︽崲琛岋紝浣跨敤鏄紒
+            OutputFormat format = new OutputFormat("\t", true);
             format.setTrimText(true);//娓呯┖鍘熸湁鐨勬崲琛屽拰缂╄繘
 
             // 鍒涘缓XmlWriter
@@ -80,7 +80,6 @@ public class TicketDao {
             OutputFormat format = new OutputFormat("\t", true);
             format.setTrimText(true);
 
-            // 鍒涘缓XmlWriter
             XMLWriter writer;
             try {
                 writer = new XMLWriter(

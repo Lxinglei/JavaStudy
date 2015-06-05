@@ -1,7 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fda88d26-e9c8-48eb-bf8a-e4744e376b09" name="Default" comment="" />
+    <list default="true" id="fda88d26-e9c8-48eb-bf8a-e4744e376b09" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../LZQ/lzqbbs/web/WEB-INF/lib/c3p0-0.9.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BookStore/web/Axure_01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaStudy/HomeWork/src/cn/meteor/homework/ch03/Ch03_06.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaStudy/HomeWork/src/cn/meteor/homework/ch03/Ch03_09.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaStudy/HomeWork/src/cn/meteor/homework/ch03/Ch03_10.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaStudy/HomeWork/src/cn/meteor/homework/ch03/Ch03_11.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaStudy/HomeWork/src/cn/meteor/homework/ch04/Ch04_01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaStudy/HomeWork/src/cn/meteor/homework/ch04/Ch04_02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaStudy/HomeWork/src/cn/meteor/homework/ch04/Ch04_03.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaStudy/HomeWork/src/cn/meteor/homework/ch04/Ch04_06.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaStudy/HomeWork/src/cn/meteor/homework/ch02/Ch2_09.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaStudy/HomeWork/HomeWork.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaStudy/HomeWork/src/cn/meteor/homework/ticket/Ticket.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/service/UserException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BookStore/src/email_template.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../LZQ/.idea/libraries/lib.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaStudy/SeatReservationSystem/src/ticket.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../README.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/user/AdminUser.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/user/AdminUser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/interceptor/AdminUserInterceptor.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/interceptor/AdminUserInterceptor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/BaseController.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/BaseController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/system/Code.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/system/Code.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/collect/Collect.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/collect/Collect.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/collect/CollectController.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/collect/CollectController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/interceptor/CommonInterceptor.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/interceptor/CommonInterceptor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$CacheKey.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$CacheKey.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$CacheName.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$CacheName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$RequestMethod.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$RequestMethod.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$ResultCode.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$ResultCode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$ResultDesc.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$ResultDesc.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$SystemCode.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants$SystemCode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/Constants.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/DateUtil.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/DateUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/EmailSender$EmailSenderHolder.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/EmailSender$EmailSenderHolder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/EmailSender$Email_Autherticator.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/EmailSender$Email_Autherticator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/EmailSender.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/EmailSender.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/EncryptionUtil.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/EncryptionUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaStudy/out/production/Experiment/cn/meteor/exp1/Exp1_5.class" afterPath="$PROJECT_DIR$/../JavaStudy/out/production/Experiment/cn/meteor/exp1/Exp1_5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/handler/HtmlHandler.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/handler/HtmlHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/index/IndexAdminController.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/index/IndexAdminController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/index/IndexController.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/index/IndexController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/JFinalBBSConfig.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/common/JFinalBBSConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/link/Link.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/link/Link.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/link/LinkAdminController.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/link/LinkAdminController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/mission/Mission.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/mission/Mission.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/mission/MissionController.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/mission/MissionController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/notification/Notification.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/notification/Notification.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/notification/NotificationController.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/notification/NotificationController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/reply/Reply.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/reply/Reply.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/reply/ReplyAdminController.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/reply/ReplyAdminController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/reply/ReplyController.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/reply/ReplyController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/Result.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/Result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/section/Section.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/section/Section.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/section/SectionAdminController.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/section/SectionAdminController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/StrUtil.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/utils/StrUtil.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaStudy/out/production/SeatReservationSystem/cn/meteor/srs/dao/TicketDao.class" afterPath="$PROJECT_DIR$/../JavaStudy/out/production/SeatReservationSystem/cn/meteor/srs/dao/TicketDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/topic/Topic.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/topic/Topic.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/topic/TopicAdminController.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/topic/TopicAdminController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/topic/TopicController.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/topic/TopicController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/user/User.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/user/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/user/UserAdminController.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/user/UserAdminController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/user/UserController.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/user/UserController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/BookStore_war_exploded/WEB-INF/classes/cn/meteor/bookstore/user/dao/UserDao.class" afterPath="$PROJECT_DIR$/out/artifacts/BookStore_war_exploded/WEB-INF/classes/cn/meteor/bookstore/user/dao/UserDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/BookStore/cn/meteor/bookstore/user/dao/UserDao.class" afterPath="$PROJECT_DIR$/out/production/BookStore/cn/meteor/bookstore/user/dao/UserDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/interceptor/UserInterceptor.class" afterPath="$PROJECT_DIR$/../LZQ/out/artifacts/lzqbbs_war_exploded/WEB-INF/classes/cn/jfinalbbs/interceptor/UserInterceptor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/BookStore_war_exploded/WEB-INF/classes/cn/meteor/bookstore/user/service/UserService.class" afterPath="$PROJECT_DIR$/out/artifacts/BookStore_war_exploded/WEB-INF/classes/cn/meteor/bookstore/user/service/UserService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/BookStore/cn/meteor/bookstore/user/service/UserService.class" afterPath="$PROJECT_DIR$/out/production/BookStore/cn/meteor/bookstore/user/service/UserService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/BookStore_war_exploded/WEB-INF/classes/cn/meteor/bookstore/user/web/servlet/UserServlet.class" afterPath="$PROJECT_DIR$/out/artifacts/BookStore_war_exploded/WEB-INF/classes/cn/meteor/bookstore/user/web/servlet/UserServlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/BookStore/cn/meteor/bookstore/user/web/servlet/UserServlet.class" afterPath="$PROJECT_DIR$/out/production/BookStore/cn/meteor/bookstore/user/web/servlet/UserServlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaStudy/SeatReservationSystem/src/cn/meteor/srs/dao/TicketDao.java" afterPath="$PROJECT_DIR$/../JavaStudy/SeatReservationSystem/src/cn/meteor/srs/dao/TicketDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/dao/UserDao.java" afterPath="$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/dao/UserDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/service/UserService.java" afterPath="$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/service/UserService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/web/servlet/UserServlet.java" afterPath="$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/web/servlet/UserServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookStore/web/jsps/user/login.jsp" afterPath="$PROJECT_DIR$/BookStore/web/jsps/user/login.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/lzqbbs/lzqbbs.iml" afterPath="$PROJECT_DIR$/../LZQ/lzqbbs/lzqbbs.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaStudy/.idea/modules.xml" afterPath="$PROJECT_DIR$/../JavaStudy/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookStore/web/jsps/msg.jsp" afterPath="$PROJECT_DIR$/BookStore/web/jsps/msg.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/BookStore_war_exploded/jsps/msg.jsp" afterPath="$PROJECT_DIR$/out/artifacts/BookStore_war_exploded/jsps/msg.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookStore/web/jsps/user/regist.jsp" afterPath="$PROJECT_DIR$/BookStore/web/jsps/user/regist.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/BookStore_war_exploded/jsps/user/regist.jsp" afterPath="$PROJECT_DIR$/out/artifacts/BookStore_war_exploded/jsps/user/regist.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookStore/web/jsps/top.jsp" afterPath="$PROJECT_DIR$/BookStore/web/jsps/top.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaStudy/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../JavaStudy/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaWeb/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../JavaWeb/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../LZQ/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WeiBo/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../WeiBo/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookStore/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/BookStore/web/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/BookStore_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/BookStore_war_exploded/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BootStrap/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../BootStrap/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaStudy/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaStudy/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaWeb/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaWeb/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LZQ/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../LZQ/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Text/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Text/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../WeiBo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../WeiBo/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" />
+    </list>
     <ignored path="JavaWebStudy.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -25,21 +122,94 @@
       <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/service/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.5185184">
+              <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/service/UserException.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserServlet.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="c3p0-config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BookStore/src/c3p0-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/web/servlet/UserServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36144578">
-              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="117" column="55" selection-start-line="117" selection-start-column="55" selection-end-line="117" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1206#1222#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="top.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BookStore/web/jsps/top.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.11764706">
+              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BookStore/web/jsps/user/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.0">
+              <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="email_template.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BookStore/src/email_template.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="regist.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BookStore/web/jsps/user/regist.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="msg.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BookStore/web/jsps/msg.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -48,7 +218,7 @@
         <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/dao/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="54" column="62" selection-start-line="54" selection-start-column="62" selection-end-line="54" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,9 +231,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Html5" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -75,9 +249,17 @@
       <list>
         <option value="$PROJECT_DIR$/BookStore/src/c3p0-config.xml" />
         <option value="$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/domain/User.java" />
+        <option value="$PROJECT_DIR$/BookStore/web/Axure_01.html" />
+        <option value="$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/service/UserException.java" />
+        <option value="$PROJECT_DIR$/BookStore/web/jsps/msg.jsp" />
+        <option value="$PROJECT_DIR$/BookStore/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/BookStore/web/jsps/user/regist.jsp" />
+        <option value="$PROJECT_DIR$/BookStore/src/email_template.properties" />
         <option value="$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/BookStore/web/jsps/user/login.jsp" />
         <option value="$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/service/UserService.java" />
         <option value="$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/web/servlet/UserServlet.java" />
+        <option value="$PROJECT_DIR$/BookStore/web/jsps/top.jsp" />
       </list>
     </option>
   </component>
@@ -103,12 +285,11 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="88" />
-    <option name="y" value="72" />
-    <option name="width" value="1323" />
+    <option name="y" value="23" />
+    <option name="width" value="1321" />
     <option name="height" value="745" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -160,6 +341,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaWebStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BookStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaWebStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BookStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -297,9 +518,9 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,6 +538,8 @@
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -587,7 +810,7 @@
       <method />
     </configuration>
     <configuration default="false" name="BookSrore" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.56" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
-      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="BROWSER_ID" value="e5120d43-2c3f-47ef-9f26-65e539e05186" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="BookStore:war exploded">
@@ -664,6 +887,9 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fda88d26-e9c8-48eb-bf8a-e4744e376b09" name="Default" comment="" />
@@ -674,14 +900,25 @@
       <workItem from="1432294866903" duration="2095000" />
       <workItem from="1432456344615" duration="52000" />
       <workItem from="1432457664314" duration="1454000" />
+      <workItem from="1432686871758" duration="5000" />
+      <workItem from="1432716097074" duration="799000" />
+      <workItem from="1432720042264" duration="556000" />
+      <workItem from="1432795714576" duration="137000" />
+      <workItem from="1432812064367" duration="2459000" />
+      <workItem from="1432997411624" duration="16000" />
+      <workItem from="1433376502979" duration="474000" />
+      <workItem from="1433378684702" duration="2202000" />
+      <workItem from="1433399943278" duration="4418000" />
+      <workItem from="1433473469965" duration="1814000" />
+      <workItem from="1433486703228" duration="3708000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4777000" />
+    <option name="totallyTimeSpent" value="21365000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="88" y="72" width="1323" height="745" extended-state="0" />
+    <frame x="0" y="23" width="1321" height="745" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -693,10 +930,10 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.59023666" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4408284" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24036281" sideWeight="0.48962656" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18773656" sideWeight="0.48962656" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.5103735" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -712,11 +949,21 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -724,11 +971,34 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/web/servlet/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1206#1222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding />
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -738,6 +1008,166 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1206#1222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/web/servlet/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1206#1222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/web/Axure_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/web/jsps/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/web/servlet/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1206#1222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/web/Axure_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/web/servlet/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1206#1222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/web/Axure_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/web/servlet/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1206#1222#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -756,7 +1186,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -766,6 +1198,69 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1206#1222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/web/servlet/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1206#1222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/web/servlet/UserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1206#1222#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -804,21 +1299,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BookStore/src/c3p0-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21496816">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35828024">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/BookStore/web/WEB-INF/libs/itcast_1.0.jar!/cn/itcast/servlet/BaseServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1910828">
@@ -833,31 +1313,130 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/web/Axure_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/web/jsps/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="36" selection-start-line="8" selection-start-column="4" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="e#372#373#0" expanded="false" />
+            <element signature="e#398#399#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/web/jsps/msg.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/web/jsps/user/regist.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/c3p0-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/service/UserException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="54" column="62" selection-start-line="54" selection-start-column="62" selection-end-line="54" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/src/email_template.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/web/jsps/user/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding />
+        <state vertical-scroll-proportion="-7.5185184">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BookStore/src/cn/meteor/bookstore/user/web/servlet/UserServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36144578">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="117" column="55" selection-start-line="117" selection-start-column="55" selection-end-line="117" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1206#1222#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStore/web/jsps/top.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11764706">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
