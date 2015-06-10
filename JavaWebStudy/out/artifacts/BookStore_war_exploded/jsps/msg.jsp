@@ -23,7 +23,7 @@
 <ul>
   <li><a href="<c:url value='/index.jsp'/>">首页</a></li>
   <li><a href="<c:url value='/jsps/user/login.jsp'/>">登录</a></li>
-  <li><a href="<c:url value='/jsps/user/regist.jsp'/>">中粗恶</a></li>
+  <li><a href="<c:url value='/jsps/user/regist.jsp'/>">注册</a></li>
 </ul>
   </body>
 </html>

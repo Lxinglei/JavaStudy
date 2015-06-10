@@ -12,4 +12,40 @@
         <servlet-name>UserServlet</servlet-name>
         <url-pattern>/UserServlet</url-pattern>
     </servlet-mapping>
+
+    <servlet>
+        <servlet-name>CateGoryServlet</servlet-name>
+        <servlet-class>cn.meteor.bookstore.category.web.servlet.CateGoryServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CateGoryServlet</servlet-name>
+        <url-pattern>/CateGoryServlet</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>BookServlet</servlet-name>
+        <servlet-class>cn.meteor.bookstore.book.web.servlet.BookServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>BookServlet</servlet-name>
+        <url-pattern>/BookServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>CartServlet</servlet-name>
+        <servlet-class>cn.meteor.bookstore.cart.web.servlet.CartServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CartServlet</servlet-name>
+        <url-pattern>/CartServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>OrderServlet</servlet-name>
+        <servlet-class>cn.meteor.bookstore.order.web.servlet.OrderServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>OrderServlet</servlet-name>
+        <url-pattern>/OrderServlet</url-pattern>
+    </servlet-mapping>
 </web-app>

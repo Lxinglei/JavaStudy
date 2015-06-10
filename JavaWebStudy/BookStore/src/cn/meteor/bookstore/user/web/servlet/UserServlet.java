@@ -4,6 +4,7 @@ import cn.itcast.commons.CommonUtils;
 import cn.itcast.mail.Mail;
 import cn.itcast.mail.MailUtils;
 import cn.itcast.servlet.BaseServlet;
+import cn.meteor.bookstore.cart.domain.Cart;
 import cn.meteor.bookstore.user.domain.User;
 import cn.meteor.bookstore.user.service.UserException;
 import cn.meteor.bookstore.user.service.UserService;
@@ -76,13 +77,13 @@ public class UserServlet extends BaseServlet {
             String content = props.getProperty("content");
             content = MessageFormat.format(content, form.getCode());    //替换第一个占位符
             //对标题进行编码
-            subject = MimeUtility.encodeWord(subject);
             /**
              * 获取收件人
              * 发送激活邮件
              */
             String to = form.getEmail();
             Session session = MailUtils.createSession(host, uname, passwd);
+            System.setProperty("mail.mime.charset","UTF-8");
             Mail mail = new Mail(from, to, subject, new String(content.getBytes("ISO-8859-1"), "utf-8"));
             MailUtils.send(session, mail);
 
@@ -115,13 +116,20 @@ public class UserServlet extends BaseServlet {
         User form = CommonUtils.toBean(request.getParameterMap(), User.class);
         try {
             User user = userService.login(form);
+            request.getSession().invalidate();
             request.getSession().setAttribute("session_user", user);
+            request.getSession().setAttribute("cart", new Cart());
             return "r:/index.jsp";
         } catch (UserException e) {
             request.setAttribute("msg", e.getMessage());
             request.setAttribute("form", form);
             return "f:/jsps/user/login.jsp";
         }
+    }
+
+    public String quit(HttpServletRequest request, HttpServletResponse response){
+        request.getSession().invalidate();
+        return "f:/jsps/user/login.jsp";
     }
 
 }
